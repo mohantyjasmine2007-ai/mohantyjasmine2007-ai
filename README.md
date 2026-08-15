@@ -1,4 +1,4 @@
-##### Hi there, I'm Jasmini Mohanty 👋
+##### Hi there, I'm Jasmine Mohanty 👋
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
