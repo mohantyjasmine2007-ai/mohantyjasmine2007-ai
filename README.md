@@ -16,11 +16,11 @@
 
 * 🎓 **Academic Journey:** B.Tech student in Information Technology at **A.P. Shah Institute of Technology (APSIT)**.
 * 🐍 **Python & CS50P:** Practicing core programming and computational thinking through **CS50P** in **`Python-Repos`**.
-* ☕ **Java & Logic Building:** Developing Object-Oriented Programming and Data Structures skills via Apna College in **`Java-Repos`** and **`Apnacollege-demo`**.
+* ☕ **Java & Logic Building:** Developing Object-Oriented Programming and Data Structures skills via Apna College in **`Java-Repos`**.
 * 🛡️ **Cybersecurity:** Learning the fundamentals of cybersecurity, secure programming, and threat analysis through **CS50's Introduction to Cybersecurity**.
 * 🎯 **Current Focus:** Strengthening fundamental computer science concepts, daily coding, and secure development practices.
 * 🌐 **GitHub Profile:** [github.com/mohantyjasmine2007-ai](https://github.com/mohantyjasmine2007-ai)
-* 📫 **Reach Me:** [Email Me](mailto:your-email@example.com)
+* 📫 **Reach Me:** [Email Me](mohantyjasmine2007@gmail.com)
 
 ---
 
@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://github.com/mohantyjasmine2007-ai">
     <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Languages" />
-    <img src="https://img.shields.io/badge/Cybersecurity-CS50%20Cybersecurity-0A2540?style=for-the-badge&logo=shield&logoColor=white" height="48" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/Cybersecurity-0A2540?style=for-the-badge&logo=hackthebox&logoColor=white" height="48" alt="Cybersecurity" />
   </a>
 </p>
 
