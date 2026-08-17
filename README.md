@@ -20,7 +20,8 @@
 * 🛡️ **Cybersecurity:** Learning the fundamentals of cybersecurity, secure programming, and threat analysis through **CS50's Introduction to Cybersecurity**.
 * 🎯 **Current Focus:** Strengthening fundamental computer science concepts, daily coding, and secure development practices.
 * 🌐 **GitHub Profile:** [github.com/mohantyjasmine2007-ai](https://github.com/mohantyjasmine2007-ai)
-* 📫 **Reach Me:**(mohantyjasmine2007@gmail.com)
+
+  
 
 ---
 
