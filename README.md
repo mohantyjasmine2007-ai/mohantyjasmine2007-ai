@@ -8,18 +8,10 @@
   * 💻 Aspiring software engineer actively strengthening core fundamentals in **Java** and **Python**.
   * 🔒 Exploring security concepts via Harvard's **CS50 Introduction to Cybersecurity**.
   * 🚀 Dedicated to writing clean code, building problem-solving logic, and documenting my learning journey.
+  *  🌐 **GitHub Profile:** [github.com/mohantyjasmine2007-ai](https://github.com/mohantyjasmine2007-ai).
 </details>
 
 ---
-
-### 📌 About Me
-
-* 🎓 **Academic Journey:** B.Tech student in Information Technology at **A.P. Shah Institute of Technology (APSIT)**.
-* 🐍 **Python & CS50P:** Practicing core programming and computational thinking through **CS50P** in **`Python-Repos`**.
-* ☕ **Java & Logic Building:** Developing Object-Oriented Programming and Data Structures skills via Apna College in **`Java-Repos`**.
-* 🛡️ **Cybersecurity:** Learning the fundamentals of cybersecurity, secure programming, and threat analysis through **CS50's Introduction to Cybersecurity**.
-* 🎯 **Current Focus:** Strengthening fundamental computer science concepts, daily coding, and secure development practices.
-* 🌐 **GitHub Profile:** [github.com/mohantyjasmine2007-ai](https://github.com/mohantyjasmine2007-ai)
 
   
 
