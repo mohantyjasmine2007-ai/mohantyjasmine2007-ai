@@ -40,15 +40,6 @@
 
 <p align="center">
   <a href="https://github.com/mohantyjasmine2007-ai" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohantyjasmine2007-ai&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=38bdf8" alt="Jasmine's GitHub Stats" />
-  </a>
-  <a href="https://github.com/mohantyjasmine2007-ai" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohantyjasmine2007-ai&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=38bdf8" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohantyjasmine2007-ai" target="_blank">
     <img src="https://img.shields.io/badge/View_Profile-mohantyjasmine2007--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
   </a>
 </p>
