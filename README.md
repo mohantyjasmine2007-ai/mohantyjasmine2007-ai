@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-   **Languages, Web & Security**
+   **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
   </a>
