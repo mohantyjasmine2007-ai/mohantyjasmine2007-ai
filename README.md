@@ -24,6 +24,11 @@
   <a href="https://github.com/mohantyjasmine2007-ai">
     <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Languages" />
     <img src="https://img.shields.io/badge/Cybersecurity-0A2540?style=for-the-badge&logo=hackthebox&logoColor=white" height="48" alt="Cybersecurity" />
+    **Languages, Web & Security**
+<br>
+<img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
+<!-- Replace the link below with your exact existing Cybersecurity badge link -->
+<img src="https://img.shields.io/badge/-CYBERSECURITY-05122A?style=for-the-badge&logo=hackthebox" />
   </a>
 </p>
 
