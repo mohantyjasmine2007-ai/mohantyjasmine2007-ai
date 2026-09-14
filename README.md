@@ -11,19 +11,14 @@
   *  🌐 **GitHub Profile:** [github.com/mohantyjasmine2007-ai](https://github.com/mohantyjasmine2007-ai).
 </details>
 
----
-
-  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-    **Languages, Web & Security**
+   **Languages, Web & Security**
 <br>
 <img src="https://skillicons.dev/icons?i=py,java,html,css,js" />
-<!-- Replace the link below with your exact existing Cybersecurity badge link -->
-<img src="https://img.shields.io/badge/-CYBERSECURITY-05122A?style=for-the-badge&logo=hackthebox" />
   </a>
 </p>
 
